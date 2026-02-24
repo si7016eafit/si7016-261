@@ -1,0 +1,21 @@
+services:
+  glances:
+    image: nicolargo/glances:ubuntu-latest-full
+    container_name: glances
+    restart: unless-stopped
+    pid: host
+    privileged: true
+    network_mode: host
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /etc/os-release:/etc/os-release:ro
+    environment:
+      - GLANCES_OPT=-w
+      - TZ=America/Bogota
