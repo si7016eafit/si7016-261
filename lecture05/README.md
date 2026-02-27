@@ -8,8 +8,8 @@
 
 ## el orden de ejecución y documentación del taller 2:
 
-1. Ejecución completa del notebook: Lecture05-frameworks-NLP.ipynb
-2. Ejecución y entendimiento del notebook: huggingface/Hugging_Face_Transformers_Tutorial.ipynb (seguramente tendrá que hacer algunos ajustes al notebook porque tiene más de 1 año de antiguedad y puede haber cambiado)
+1. Ejecución, entenidmiento y explicación completa del notebook: Lecture05-frameworks-NLP.ipynb
+2. Ejecución, entendimiento y explicación del notebook: huggingface/Hugging_Face_Transformers_Tutorial.ipynb (seguramente tendrá que hacer algunos ajustes al notebook porque tiene más de 1 año de antiguedad y puede haber cambiado)
 3. Realice un ejemplo adicional al presentado en 1 y 2 sobre huggingface
 4. Explore, entienda y explique las aplicaciones que se encuentran en langchain/*
 5. Realice la ejecución, entendimiento y explicación de la aplicación sobre ollama/*
