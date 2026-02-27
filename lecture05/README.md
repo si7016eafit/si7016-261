@@ -1,3 +1,7 @@
+# Taller 2 
+### fecha máx de entrega: 8 de marzo 2026
+
+
 ## Realice la ejecución y entendimiento del notebook: Lecture05-frameworks-NLP.ipynb
 
 ## necesitará la API KEY de openai, huggingface y langchain, la de openai es pagada, las demás son gratuitas.
