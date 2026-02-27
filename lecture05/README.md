@@ -2,14 +2,14 @@
 ### fecha máx de entrega: 8 de marzo 2026
 
 
-## Realice la ejecución y entendimiento del notebook: Lecture05-frameworks-NLP.ipynb
+## Realice la ejecución, entendimiento, análisis y documentación de cada uno de los puntos a continuación:
 
-## necesitará la API KEY de openai, huggingface y langchain, la de openai es pagada, las demás son gratuitas.
+### necesitará la API KEY de openai, huggingface y langchain, la de openai es pagada, las demás son gratuitas.
 
 ## el orden de ejecución y documentación del taller 2:
 
 1. Ejecución completa del notebook: Lecture05-frameworks-NLP.ipynb
-2. Ejecución y entendimiento del notebook: huggingface/Hugging_Face_Transformers_Tutorial.ipynb
+2. Ejecución y entendimiento del notebook: huggingface/Hugging_Face_Transformers_Tutorial.ipynb (seguramente tendrá que hacer algunos ajustes al notebook porque tiene más de 1 año de antiguedad y puede haber cambiado)
 3. Realice un ejemplo adicional al presentado en 1 y 2 sobre huggingface
 4. Explore, entienda y explique las aplicaciones que se encuentran en langchain/*
 5. Realice la ejecución, entendimiento y explicación de la aplicación sobre ollama/*
